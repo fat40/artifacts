@@ -8,7 +8,7 @@ Static assets for [fool@40](https://fat40.github.io).
 
 | File | Description |
 | --- | --- |
-| `52538.png` | Icon, 400x400 PNG |
+| `52538.png` | Icon, 640x640 PNG |
 
 ## Usage
 
